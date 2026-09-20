@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": "movie-1",
+      "title": "Spider Man",
+      "type": "movie",
+      "year": 2002,
+      "description": "وصف فيلم Spider Man",
+      "poster": "https://i.ibb.co/FqgxGh6G/images-1.jpg",
+      "episodes": [{ "title": "الفيلم كامل", "video": "" }]
+    },
+    {
+      "id": "movie-2",
+      "title": "THE ODYSSEY",
+      "type": "movie",
+      "year": 2026,
+      "description": "وصف فيلم Batman",
+      "poster": "https://i.ibb.co/sJkpwXSh/images-2.jpg",
+      "episodes": [{ "title": "الفيلم كامل", "video": "" }]
+    },
+    {
+      "id": "movie-3",
+      "title": "INTERSTELLAR",
+      "type": "movie",
+      "year": 2014,
+      "description": "وصف فيلم Avatar",
+      "poster": "https://i.ibb.co/kVB7Xz0c/images-3.jpg",
+      "episodes": [{ "title": "الفيلم كامل", "video": "" }]
+    },
+    {
+      "id": "movie-4",
+      "title": "TITANIC",
+      "type": "movie",
+      "year": 1997,
+      "description": "وصف فيلم Titanic",
+      "poster": "https://i.ibb.co/whbdzvJd/images-5.jpg",
+      "episodes": [{ "title": "الفيلم كامل", "video": "" }]
+    }
+  ],
+  
