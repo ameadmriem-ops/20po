@@ -37,4 +37,122 @@
       "episodes": [{ "title": "الفيلم كامل", "video": "" }]
     }
   ],
-  
+  "series": [
+    {
+      "id": "series-1",
+      "title": "the mentalist 1",
+      "type": "series",
+      "year": 2008,
+      "description": "وصف مسلسل 1",
+      "poster": "https://i.ibb.co/G3dQ3j5Z/images-4.jpg",
+      "episodes": [
+        { "title": "الحلقة 1", "video": "" }, { "title": "الحلقة 2", "video": "" },
+        { "title": "الحلقة 3", "video": "" }, { "title": "الحلقة 4", "video": "" },
+        { "title": "الحلقة 5", "video": "" }, { "title": "الحلقة 6", "video": "" },
+        { "title": "الحلقة 7", "video": "" }, { "title": "الحلقة 8", "video": "" },
+        { "title": "الحلقة 9", "video": "" }, { "title": "الحلقة 10", "video": "" }
+      ]
+    },
+    {
+      "id": "series-2",
+      "title": "game of thrones 1",
+      "type": "series",
+      "year": 2011,
+      "description": "وصف مسلسل 2",
+      "poster": "https://i.ibb.co/5WhXRYLf/56a9a478a3b54b6305a78dba1612e7b4-1000x1000x1.png",
+      "episodes": [
+        { "title": "الحلقة 1", "video": "" }, { "title": "الحلقة 2", "video": "" },
+        { "title": "الحلقة 3", "video": "" }, { "title": "الحلقة 4", "video": "" },
+        { "title": "الحلقة 5", "video": "" }, { "title": "الحلقة 6", "video": "" },
+        { "title": "الحلقة 7", "video": "" }, { "title": "الحلقة 8", "video": "" },
+        { "title": "الحلقة 9", "video": "" }, { "title": "الحلقة 10", "video": "" }
+      ]
+    },
+    {
+      "id": "series-3",
+      "title": "the walking dead",
+      "type": "series",
+      "year": 2010,
+      "description": "وصف مسلسل 3",
+      "poster": "https://i.ibb.co/LDGWjn0L/images-11.jpg",
+      "episodes": [
+        { "title": "الحلقة 1", "video": "" }, { "title": "الحلقة 2", "video": "" },
+        { "title": "الحلقة 3", "video": "" }, { "title": "الحلقة 4", "video": "" },
+        { "title": "الحلقة 5", "video": "" }, { "title": "الحلقة 6", "video": "" },
+        { "title": "الحلقة 7", "video": "" }, { "title": "الحلقة 8", "video": "" },
+        { "title": "الحلقة 9", "video": "" }, { "title": "الحلقة 10", "video": "" }
+      ]
+    },
+    {
+      "id": "series-4",
+      "title": "house of cards",
+      "type": "series",
+      "year": 2013,
+      "description": "وصف مسلسل 4",
+      "poster": "https://i.ibb.co/0pGyqxtw/images-10.jpg",
+      "episodes": [
+        { "title": "الحلقة 1", "video": "" }, { "title": "الحلقة 2", "video": "" },
+        { "title": "الحلقة 3", "video": "" }, { "title": "الحلقة 4", "video": "" },
+        { "title": "الحلقة 5", "video": "" }, { "title": "الحلقة 6", "video": "" },
+        { "title": "الحلقة 7", "video": "" }, { "title": "الحلقة 8", "video": "" },
+        { "title": "الحلقة 9", "video": "" }, { "title": "الحلقة 10", "video": "" }
+      ]
+    },
+    {
+      "id": "series-5",
+      "title": "dexter",
+      "type": "series",
+      "year": 2006,
+      "description": "وصف مسلسل 5",
+      "poster": "https://i.ibb.co/Y4Fq4ss2/images-9.jpg",
+      "episodes": [
+        { "title": "الحلقة 1", "video": "" }, { "title": "الحلقة 2", "video": "" },
+        { "title": "الحلقة 3", "video": "" }, { "title": "الحلقة 4", "video": "" },
+        { "title": "الحلقة 5", "video": "" }, { "title": "الحلقة 6", "video": "" },
+        { "title": "الحلقة 7", "video": "" }, { "title": "الحلقة 8", "video": "" },
+        { "title": "الحلقة 9", "video": "" }, { "title": "الحلقة 10", "video": "" }
+      ]
+    }
+  ],
+  "anime": [
+    {
+      "id": "anime-1",
+      "title": "ONE PIECE",
+      "type": "anime",
+      "year": 1999,
+      "description": "وصف أنمي 1",
+      "poster": "https://i.ibb.co/FLYPbp5n/images-7.jpg",
+      "episodes": [
+        { "title": "الحلقة 1", "video": "" }, { "title": "الحلقة 2", "video": "" },
+        { "title": "الحلقة 3", "video": "" }, { "title": "الحلقة 4", "video": "" },
+        { "title": "الحلقة 5", "video": "" }, { "title": "الحلقة 6", "video": "" },
+        { "title": "الحلقة 7", "video": "" }, { "title": "الحلقة 8", "video": "" },
+        { "title": "الحلقة 9", "video": "" }, { "title": "الحلقة 10", "video": "" },
+        { "title": "الحلقة 11", "video": "" }, { "title": "الحلقة 12", "video": "" }
+      ]
+    },
+    {
+      "id": "anime-2",
+      "title": "jujutsu kaisen",
+      "type": "anime",
+      "year": 2020,
+      "description": "وصف أنمي 2",
+      "poster": "https://i.ibb.co/hFrYDMQf/images-6.jpg",
+      "episodes": [
+        { "title": "الحلقة 1", "video": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+        { "title": "الحلقة 2", "video": "" }, { "title": "الحلقة 3", "video": "" }
+      ]
+    },
+    {
+      "id": "anime-3",
+      "title": "NARUTO",
+      "type": "anime",
+      "year": 2002,
+      "description": "وصف أنمي 3",
+      "poster": "https://i.ibb.co/ddTJzx1/images-8.jpg",
+      "episodes": [
+        { "title": "الحلقة 1", "video": "" }, { "title": "الحلقة 2", "video": "" }
+      ]
+    }
+  ]
+        }
