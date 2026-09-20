@@ -1,0 +1,17 @@
+{
+  "arabe": [
+    { "name": "Al Arabiya", "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8", "poster": "https://via.placeholder.com/150?text=AlArabiya" },
+    { "name": "AlArabiyaBusiness", "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8", "poster": "" },
+    { "name": "AL Arabiya programs", "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8", "poster": "" },
+    { "name": "CArabiya.ae", "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8", "poster": "" }
+  ],
+  "bein": [
+    { "name": "beIN 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8", "poster": "" },
+    { "name": "beIN 2", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8", "poster": "" }
+  ],
+  "mbc": [
+    { "name": "MBC1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8", "poster": "" },
+    { "name": "MBC DRAMA", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8", "poster": "" },
+    { "name": "MBC4", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8", "poster": "" }
+  ]
+}
